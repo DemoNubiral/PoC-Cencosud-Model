@@ -13,9 +13,9 @@ Clonar repositorio (crea el directorio PoC-Cencosud-Model):
 
 `git clone git@github.com:santiago.castro/PoC-Cencosud-Model.git`
 
-Ir al directorio: `cd prisma-poc-teradata`
+Ir al directorio: `cd PoC-Cencosud-Model`
 
-Ir a la rama develop: `git checkout develop`
+Ir a la rama en donde van a trabajar, por defecto la rama principal esta como main: `git checkout xxxxx`
 
 ## Buenas prácticas para mensajes de commit
 
